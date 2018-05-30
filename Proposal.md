@@ -1,8 +1,4 @@
-# COMMUNICATION
-
-# PLUGIN
-
-# IMPROVEMENT
+# COMMUNICATION PLUGIN IMPROVEMENT
 
 ## SOFA-FRAMEWORK
 
@@ -54,20 +50,12 @@ unaware of the network topology. Note that it is possible to use VRPN with devic
 that are directly connected to the machine that the application is running on, either
 using separate control programs or running all as a single program.
 
-
-```
-Figure 1. Working of VRPN
-```
 ## Serial Bus Communication
 
 Serial communication is the process of sending data one bit at a time, sequentially,
 over a communication channel or computer bus. This is in contrast to parallel
 communication, where several bits are sent as a whole, on a link with several
 parallel channels.
-
-```
-Figure 2. Parallel VS Serial Communication
-```
 
 ## PROPOSED DELIVERABLES
 
